@@ -13,7 +13,7 @@ Before running the script, ensure you have:
 
 * Python installed on your system.
 * Pyrogram library and its dependencies installed. You can install them using `pip install pyrogram`.
-* Your Telegram api_id and api_hash, which can be obtained by registering your application on Telegram's API development tools.
+* Your Telegram api_id and api_hash, which can be obtained by registering your application on [Telegram's API development tools](https://core.telegram.org/api/obtaining_api_id).
 
 ## Usage
 * Clone the repository to your local machine.

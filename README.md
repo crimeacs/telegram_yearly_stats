@@ -12,13 +12,13 @@ Telegram Yearly Stats is a Python-based tool that leverages the Pyrogram library
 Before running the script, ensure you have:
 
 * Python installed on your system.
-* Pyrogram library and its dependencies installed. You can install them using pip install pyrogram.
+* Pyrogram library and its dependencies installed. You can install them using `pip install pyrogram`.
 * Your Telegram api_id and api_hash, which can be obtained by registering your application on Telegram's API development tools.
 
 ## Usage
 * Clone the repository to your local machine.
 * Navigate to the repository directory.
-* Run the script using python get_stats.py.
+* Run the script using `python get_stats.py`.
 
 The script will start processing messages from the specified Telegram channel and save them in the messages directory as JSON files.
 

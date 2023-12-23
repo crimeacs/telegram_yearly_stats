@@ -3,10 +3,10 @@
 Telegram Yearly Stats is a Python-based tool that leverages the Pyrogram library to efficiently extract and organize message data from specified Telegram channels. It's designed for users interested in data analytics, archival, or insights related to message interactions on Telegram channels.
 
 ## Features
-**Automated Data Extraction**: Connects to Telegram using Pyrogram and iterates through the chat history of a specified channel.
-**Comprehensive Data Collection**: Gathers detailed information about each message, including ID, date, text, views, shares (forwards), author, and reactions.
-**JSON Data Storage**: Each message's data is neatly organized into a JSON file, providing an easy-to-use format for further analysis or reporting.
-**Error Handling Mechanisms**: Includes basic error handling to ensure smooth operation and to log any issues encountered during data extraction.
+* Automated Data Extraction: Connects to Telegram using Pyrogram and iterates through the chat history of a specified channel.
+* omprehensive Data Collection: Gathers detailed information about each message, including ID, date, text, views, shares (forwards), author, and reactions.
+* JSON Data Storage: Each message's data is neatly organized into a JSON file, providing an easy-to-use format for further analysis or reporting.
+* Error Handling Mechanisms: Includes basic error handling to ensure smooth operation and to log any issues encountered during data extraction.
 
 ## Prerequisites
 Before running the script, ensure you have:
